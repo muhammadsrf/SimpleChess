@@ -11,6 +11,7 @@
 /[Ss]erver[Dd]ata/
 /[Uu]ser[Ss]ettings/
 /[Tt]emp[Dd]esign/
+/.vscode/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
